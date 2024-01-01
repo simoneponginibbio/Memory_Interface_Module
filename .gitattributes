@@ -1,1 +1,15 @@
-test_banches/* linguist-vendored
+tb_1.vhd linguist-vendored
+tb_2.vhd linguist-vendored
+tb_3.vhd linguist-vendored
+tb_4.vhd linguist-vendored
+tb_5.vhd linguist-vendored
+tb_6.vhd linguist-vendored
+tb_7.vhd linguist-vendored
+AsySW.vhd linguist-vendored
+allzero.vhd linguist-vendored
+asynchronous_rst.vhd linguist-vendored
+borderline_1.vhd linguist-vendored
+borderline_2.vhd linguist-vendored
+heavy_test.vhd linguist-vendored
+multiple_rst.vhd linguist-vendored
+rst_test.vhd linguist-vendored
